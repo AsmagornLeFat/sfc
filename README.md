@@ -7,3 +7,6 @@ StarfleetFleetMaxCargoFix.js :
 
 StarfleetFleetsLisibility.js :
   For the fleets screen, moving fleets are now readable, and at the bottom you can now read in blue a formated version of the totals of each kind of ships.
+
+StarfleetShipyardLisibility.js :
+  For the shipyard screen, totals on the left, queued and ships under construction are now readable.
