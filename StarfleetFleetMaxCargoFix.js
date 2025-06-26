@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Starfleet Commander Fleet Max Cargo Fix
 // @namespace    Starfleet Commander
-// @version      2.6
+// @version      2.6.1
 // @description  Adds "Max" buttons next to resource inputs on the fleet page, calculating max cargo by deducting fuel consumption from the game's native max, and ensuring raw number formatting (no commas/dots) using BigInt for very large numbers.
-// @match        https://playstarfleet*.com/fleet*
+// @match        https://playstarfleet.com/fleet*
 // @match        https://*.playstarfleet*.com/fleet*
 // @match        https://*.stardriftempires.com/fleet*
 // @grant        none
