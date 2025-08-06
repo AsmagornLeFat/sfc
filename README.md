@@ -10,3 +10,7 @@ StarfleetFleetsLisibility.js :
 
 StarfleetShipyardLisibility.js :
   For the shipyard screen, totals on the left, queued and ships under construction are now readable.
+
+GalaxyScan.js :
+  You set a duration you want between 2 scans of a system, the script will compare an "old enough" data and tell you in a popup if the target is new or not.
+  You can also set a range of NPC power and/or name(s).
