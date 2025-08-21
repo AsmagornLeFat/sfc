@@ -30,8 +30,8 @@ GalaxyScan_X.X.js :
     const NPC_TARGET_NAMES = [];
     
   It gives you 5 buttons :
-    Save this scan              : Save the state of the current system in a temporary webbrowser file.
-    Check last scan             : Check the date/time of your last Save state of the current system.
-    Compare scans               : When you've done 2 scans and there is enough time (your delta) between them, create a popup informing you of new targets.
-    Delete last scan            : Delete only the last scan you have done for the current system.
-    Delete all current scans    : Delete all scans for the current system.
+  - Save this scan              : Save the state of the current system in a temporary webbrowser file.
+  - Check last scan             : Check the date/time of your last Save state of the current system.
+  - Compare scans               : When you've done 2 scans and there is enough time (your delta) between them, create a popup informing you of new targets.
+  - Delete last scan            : Delete only the last scan you have done for the current system.
+  - Delete all current scans    : Delete all scans for the current system.
