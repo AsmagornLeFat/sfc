@@ -14,6 +14,9 @@ StarfleetFleetsLisibility.js :
 StarfleetShipyardLisibility.js :
   For the shipyard screen, totals on the left, queued and ships under construction are now readable.
 
+StarfleetOverviewLisibility.js :
+  For the overview screen, ships numbers are now readable.
+
 ----------------------------
 Galaxy_NPC_Scan_X.X.js :
   You set your delta in hours between 2 scans of a same system, the script will compare those 2 last scans and tell you in a popup how many targets are new and which ones, or if there is nothing valid as a target.
